@@ -29,7 +29,8 @@ One project that shows how to include a machine learning model into a Flask web 
 ### The project's code structure is as follows:
 - `app.py`: The main Flask application file, handling routing and model integration.
 - `templates/index.html`: The HTML template for the web interface.
-- `models/house_price_model.pkl`: The serialized machine learning model.
-- `data/housing_data.csv`: The dataset used to train the machine learning model.
+- `static/css/main.css`: The CSS code for color, layout, and fonts, using properties and selectors for design control
+- `train_model.pkl`: The serialized machine learning model.
+- `house_data.csv`: The dataset used to train the machine learning model.
 - `requirements.txt`: The list of Python dependencies for the project.
 - `README.md`: The project's documentation, which you're currently reading.
