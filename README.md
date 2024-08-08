@@ -59,9 +59,20 @@ We implemented a LinearRegression is a machine learning algorithm used for predi
 - `README.md`: The project's documentation, which you're currently reading.
 
 
+
+
+
 ![house1](https://github.com/user-attachments/assets/1d704bad-0265-4045-88bc-fc915fb70974)
 
 
+
+
 ![house2](https://github.com/user-attachments/assets/bf078db1-2b3f-474a-850d-8b88655c0bb2)
+
+
+
+
+![house3](https://github.com/user-attachments/assets/857ba103-244d-4efd-a2eb-c2045e1bf5d0)
+
 
 
