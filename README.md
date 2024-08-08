@@ -43,15 +43,13 @@ Using the Web Interface
 ## Model Implementation
 
 ### Dataset
-For this project, we used the  from Kaggle.
+For this project, we used the dataset from Kaggle.
 
 ### Model Selection and Training
 We implemented a LinearRegression is a machine learning algorithm used for predicting a continuous target variable based on linear relationships between features and target. The model was trained using the dataset and saved in the `models/train_model.pkl` file.
 
-## Code Structure
-The project's code structure is as follows:
 
-  ## Code Structure
+## Code Structure
 
 ### The project's code structure is as follows:
 - `app.py`: The main Flask application file, handling routing and model integration.
@@ -61,3 +59,11 @@ The project's code structure is as follows:
 - `house_data.csv`: The dataset used to train the machine learning model.
 - `requirements.txt`: The list of Python dependencies for the project.
 - `README.md`: The project's documentation, which you're currently reading.
+
+
+![house1](https://github.com/user-attachments/assets/1d704bad-0265-4045-88bc-fc915fb70974)
+
+
+![house2](https://github.com/user-attachments/assets/bf078db1-2b3f-474a-850d-8b88655c0bb2)
+
+
