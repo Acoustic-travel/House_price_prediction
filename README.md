@@ -23,8 +23,35 @@ One project that shows how to include a machine learning model into a Flask web 
 - Makes use of a machine learning model to forecast house price values depending on the features entered
 - Displays the predicted house price to the user
 
+## Installation
+
+### requirements
+- Python 3.x
+- Flask
+- scikit-learn
+- jinja2
+- python
+- numpy
+
+
+## usage
+Using the Web Interface
+1. Fill out the house feature form on the web page, providing details like the number of bedrooms,number of bathrooms, size of square feet, NO of floor etc.
+2. Click the "Predict" button.
+3. The application will display the predicted house price based on the provided features.
+
+## Model Implementation
+
+### Dataset
+For this project, we used the  from Kaggle.
+
+### Model Selection and Training
+We implemented a LinearRegression is a machine learning algorithm used for predicting a continuous target variable based on linear relationships between features and target. The model was trained using the dataset and saved in the `models/train_model.pkl` file.
 
 ## Code Structure
+The project's code structure is as follows:
+
+  ## Code Structure
 
 ### The project's code structure is as follows:
 - `app.py`: The main Flask application file, handling routing and model integration.
