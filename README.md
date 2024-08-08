@@ -28,13 +28,13 @@ One project that shows how to include a machine learning model into a Flask web 
 - Flask
 - scikit-learn
 - jinja2
-- python
+- pandas
 - numpy
 
 
 ## usage
 Using the Web Interface
-1. Fill out the house feature form on the web page, providing details like the number of bedrooms,number of bathrooms, size of square feet, NO of floor etc.
+1. Fill out the house feature form on the web page, providing details like the number of bedrooms,number of bathrooms, size of square feet, number of floor etc.
 2. Click the "Predict" button.
 3. The application will display the predicted house price based on the provided features.
 
