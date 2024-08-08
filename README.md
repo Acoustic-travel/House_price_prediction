@@ -10,8 +10,6 @@ This is a Flask web application that uses a machine learning model to predict th
 - [Usage](#usage)
 - [Model Implementation](#model-implementation)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
