@@ -1,7 +1,7 @@
 
 # House Price Prediction Web Application
 
-This is a Flask web application that allows users to input house features and predicts the corresponding house price using a machine learning model.
+This is a Flask web application that uses a machine learning model to predict the price of a house based on features that the user enters.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,14 +14,22 @@ This is a Flask web application that allows users to input house features and pr
 - [License](#license)
 
 ## Introduction
-The House Price Prediction Web Application is a project that demonstrates the integration of a machine learning model within a Flask web application. Users can input various house features, and the application will provide an estimated house price based on the trained model.
 
-## Features
-- Provides a user-friendly web interface to input house features
-- Utilizes a machine learning model to predict house prices based on the provided features
+One project that shows how to include a machine learning model into a Flask web application is the House Price Prediction Web Application. The application allows users to input different house attributes and, using the trained model, provides an estimated house price.
+
+## Features: 
+
+- Offers an easy-to-use web interface for entering home characteristics
+- Makes use of a machine learning model to forecast house price values depending on the features entered
 - Displays the predicted house price to the user
 
-## Installation
-To set up the project, follow these steps:
 
-1. Clone the repository:
+## Code Structure
+
+### The project's code structure is as follows:
+- `app.py`: The main Flask application file, handling routing and model integration.
+- `templates/index.html`: The HTML template for the web interface.
+- `models/house_price_model.pkl`: The serialized machine learning model.
+- `data/housing_data.csv`: The dataset used to train the machine learning model.
+- `requirements.txt`: The list of Python dependencies for the project.
+- `README.md`: The project's documentation, which you're currently reading.
