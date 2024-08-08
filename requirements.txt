@@ -1,1 +1,6 @@
-
+pandas
+numpy
+flask
+python
+scikit-learn
+jinja2
